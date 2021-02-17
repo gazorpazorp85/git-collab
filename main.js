@@ -8,9 +8,9 @@
 */
 
 let min = 1,
-    max = 10,
+    max = 20,
     winnigNum = getRandomNum(min, max),
-    guessesLeft = 3;
+    guessesLeft = 5;
 
 const minNumUI = document.querySelector('.min-num'),
       maxNumUI = document.querySelector('.max-num'),
