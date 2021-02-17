@@ -80,3 +80,27 @@ function setMessage(msg, color) {
 function getRandomNum(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function getScore() {
+    console.log('hello');
+}
